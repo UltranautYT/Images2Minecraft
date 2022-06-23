@@ -17,11 +17,10 @@ from sewar.full_ref import mse, rmse, psnr, uqi, ssim, ergas, scc, rase, sam, ms
 # PARAMETERS! CHANGE AS YOU LIKE!!!
 #######################################################
 # The scale in minecraft blocks
-minecraft_scale = (50,50)
+minecraft_scale = (1,000,1,000)
 # The depth of the house
-depth = 10
-# How many different blocks you want to use
-number_of_blocks = 2
+depth = 1,000
+# How many differen150
 # Location of the image you want to convert
 img_loc = "target/house2.png"
 #######################################################
